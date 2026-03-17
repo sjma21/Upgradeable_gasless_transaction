@@ -4,7 +4,7 @@ const path = require("path");
 
 const RPC_URL = "https://sepolia.optimism.io";
 
-const USER_PRIVATE_KEY = "ef0de09cdbf510d9d64127efaa2cb209d69ecb0ce2e2dc871af2b12d5f6238c1";
+const USER_PRIVATE_KEY = "USER_PRIVATE_KEY";
 
 const FORWARDER_ADDRESS = "0x3934B1836332B302e0De445C3111290d2c8D4C68";
 
