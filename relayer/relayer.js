@@ -2,9 +2,9 @@ const { ethers } = require("ethers");
 const fs = require("fs");
 const path = require("path");
 
-const RPC_URL = "https://sepolia.optimism.io";
+const RPC_URL = "RPC_url";
 
-const RELAYER_PRIVATE_KEY = "4db5a4aa2846a728a6bab8e97118f707ea168f816b202eb316340006ae8d532d";
+const RELAYER_PRIVATE_KEY = "Relayer_Private_key";
 
 const FORWARDER_ADDRESS = "0x3934B1836332B302e0De445C3111290d2c8D4C68";
 
